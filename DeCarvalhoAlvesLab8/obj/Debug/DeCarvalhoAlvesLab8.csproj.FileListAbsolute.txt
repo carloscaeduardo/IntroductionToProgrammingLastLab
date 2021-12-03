@@ -1,0 +1,10 @@
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\bin\Debug\DeCarvalhoAlvesLab8.exe.config
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\bin\Debug\DeCarvalhoAlvesLab8.exe
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\bin\Debug\DeCarvalhoAlvesLab8.pdb
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\obj\Debug\DeCarvalhoAlvesLab8.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\obj\Debug\DeCarvalhoAlvesLab8.Form1.resources
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\obj\Debug\DeCarvalhoAlvesLab8.Properties.Resources.resources
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\obj\Debug\DeCarvalhoAlvesLab8.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\obj\Debug\DeCarvalhoAlvesLab8.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\obj\Debug\DeCarvalhoAlvesLab8.exe
+C:\Users\carlo\Documents\NBCC\Fall2021\C#\Lab8\DeCarvalhoAlvesLab8\obj\Debug\DeCarvalhoAlvesLab8.pdb
